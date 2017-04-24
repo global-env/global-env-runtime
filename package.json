@@ -1,0 +1,21 @@
+{
+  "name": "global-env-runtime",
+  "version": "1.0.0",
+  "description": "🌐 A runtime implementation for the [global-env proposal](https://github.com/global-env/proposal).",
+  "main": "lib/node.js",
+  "browser": "lib/browser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/global-env/global-env-runtime.git"
+  },
+  "keywords": ["global", "env", "runtime", "global-env"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/global-env/global-env-runtime/issues"
+  },
+  "homepage": "https://github.com/global-env/global-env-runtime#readme"
+}
